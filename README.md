@@ -7,3 +7,5 @@ Now let's move on to another task. Here you are provided with a string to work w
 3. Store the last item in the array in a variable called lastItem.
 
 Ref: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Test_your_skills:_Arrays
+
+Live web: https://gitthuma.github.io/arrays-2/
